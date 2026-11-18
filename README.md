@@ -77,6 +77,6 @@ Over the past decade across **energy, fintech, and global operations**, I’ve l
 
 Hiring for **Analytics Engineering, BI Architecture, Data Product Development, or Analytics Innovation**—or just want to swap notes on untangling messy data problems? 
 
-* 💼 **Say hello & view my full career timeline on [LinkedIn](https://www.linkedin.com/in/sanjanaputchala/)**[cite: 2]
-* ✨ **Explore my interactive portfolio at [itstechnicallymagic.github.io](https://itstechnicallymagic.github.io)**[cite: 2]
-* ✍️ **Read technical deep dives on [Medium](https://medium.com/@sanjana.putchala)** or watch builds on **[YouTube](https://www.youtube.com/@ItsTechnically-Magic)**[cite: 2]
+* 💼 **Say hello & view my full career timeline on [LinkedIn](https://www.linkedin.com/in/sanjanaputchala/)**
+* ✨ **Explore my interactive portfolio at [itstechnicallymagic.github.io](https://itstechnicallymagic.github.io)**
+* ✍️ **Read technical deep dives on [Medium](https://medium.com/@sanjana.putchala)** or watch builds on **[YouTube](https://www.youtube.com/@ItsTechnically-Magic)**

@@ -1,59 +1,25 @@
-<div align="center">
+✨ Hello, I'm Sanjana Putchala
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:06b6d4&height=210&section=header&text=It's%20Technically%20Magic&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Sanjana%20Putchala%20%E2%80%A2%20Analytics%20%26%20Innovation&descSize=18&descAlignY=60&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:9333ea,100:0891b2&height=210&section=header&text=It's%20Technically%20Magic&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Sanjana%20Putchala%20%E2%80%A2%20Analytics%20%26%20Innovation&descSize=18&descAlignY=60&animation=fadeIn" />
-  <img alt="It's Technically Magic Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:06b6d4&height=210&section=header&text=It's%20Technically%20Magic&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Sanjana%20Putchala%20%E2%80%A2%20Analytics%20%26%20Innovation&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
-</picture>
+With over a decade of experience across energy, fintech, and global operations, I bring together business intelligence, data engineering, automation, and applied machine learning. My favorite work turns tangled legacy reporting and repetitive manual chores into clean, scalable analytics products that teams genuinely enjoy using.
 
-<p>
-  <a href="https://itstechnicallymagic.github.io"><img src="https://img.shields.io/badge/Interactive_Portfolio-Launch_Site-7c3aed?style=for-the-badge&logo=sparkles&logoColor=white" alt="Interactive Portfolio" /></a>
-  <a href="https://youtube.com/@ItsTechnically-Magic"><img src="https://img.shields.io/badge/YouTube-@ItsTechnically--Magic-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://medium.com/@ItsTechnicallyMagic"><img src="https://img.shields.io/badge/Medium-@ItsTechnicallyMagic-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.linkedin.com/in/itstechnicallymagic"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+Explore the full interactive experience (including the Capability Firefly Jar, Career Elevation Arc, and live content carousel) at itstechnicallymagic.github.io ✨
 
-</div>
+🧭 How I Approach Data Problems
 
----
+🚀 Spotlight Projects & Featured Writing
 
-### ✨ About Me
-Hi, I’m **Sanjana Putchala** — an **Analytics & Innovation Developer** building clever solutions to everyday data headaches.
+▶️ Featured Walkthroughs on @ItsTechnically-Magic
 
-We’ve all lost hours wrestling with tangled models, stubborn bugs, and manual busywork. Around here, I skip cookie-cutter fixes to engineer smart data utilities, automate repetitive workflows, and turn reactive firefighting into proactive storytelling.
+🪄 Interactive Deep Dives
 
----
+Systems Foundations (SQL, Relational Schemas & Data Warehousing) — Mastering database internals, indexing strategies, and clean warehouse schemas so every analytics platform stands on fast, reliable foundations.
 
-### 🧭 What I Build & Share
-- ⚡ **End-to-End Data Problem Solving:** Clean architectures, semantic model tooling, and root-cause debugging.
-- 🤖 **Workflow Automation:** Custom scripts and utilities that make repetitive tasks quietly disappear.
-- 🎨 **Proactive Data Storytelling:** Interactive experiences that answer business questions before they’re asked.
+Semantic Modeling & BI (Dimensional Star Schemas, DAX & Visual Analytics) — Translating raw operational tables into single source semantic models and intuitive executive stories across Power BI, Tableau, and OBIEE.
 
-<details>
-<summary><b>🔮 Open the Magic Playbook (Click to Expand)</b></summary>
-<br />
+Applied ML & Experimentation (Python, Forecasting, Segmentation & Anomaly Detection) — Expanding from descriptive reporting into predictive segmentation platforms, time series forecasting, NLP, and A/B validation.
 
-| Pillar | Focus Area | How It Shows Up |
-| :--- | :--- | :--- |
-| **01. Root-Cause Magic** | Deep debugging & architecture | Untangling complex dependencies and decoding file structures into clean, maintainable blueprints. |
-| **02. Automation First** | Reclaiming engineering hours | Replacing multi-hour manual updates and migrations with repeatable Python & CLI workflows. |
-| **03. Build in Public** | Teaching & storytelling | Sharing practical walkthroughs on **YouTube** (`@ItsTechnically-Magic`) and deep-dive essays on **Medium**. |
+Cloud & Automated Pipelines (Databricks, Azure, Snowflake & Self Healing ELT) — Modernizing legacy reporting suites into resilient cloud pipelines with automated schema validation and proactive alerts.
 
-</details>
+Analytics Innovation (PBIP CI/CD, AI Copilots & Scalable Data Products) — Bringing software DevOps, AI copilot workflows, autoencoder telemetry, and team mentorship together so enterprise analytics feels effortless.
 
----
-
-### 📊 GitHub Telemetry
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ItsTechnicallyMagic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ItsTechnicallyMagic&show_icons=true&theme=default&hide_border=true&title_color=7c3aed&icon_color=0891b2" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ItsTechnicallyMagic&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTechnicallyMagic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTechnicallyMagic&layout=compact&theme=default&hide_border=true&title_color=7c3aed" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTechnicallyMagic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </picture>
-</div>
+📊 GitHub Telemetry

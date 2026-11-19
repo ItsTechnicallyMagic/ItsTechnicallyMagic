@@ -5,7 +5,7 @@ We’ve all been there: staring at a dashboard that refuses to refresh at 4:55 P
 
 Over the past decade across **energy, fintech, and global operations**, I’ve lived in those exact trenches and turned fixing them into my favorite sport. Today, I work at the intersection of **business intelligence, cloud data engineering, automation, and applied machine learning**, building smart analytics products and open-source developer tools that replace manual busywork with clarity.
 
-**Why teams (and hiring managers!) love working with me:**
+**Why teams love working with me:**
 * **I translate ambiguity into working products:** Give me a vague business question and a messy database, and I’ll hand back a clean semantic architecture and an executive story people actually trust.
 * **I automate the boring stuff:** If a task has to be done twice, I’m already writing a Python script, metadata parser, or CI/CD workflow so nobody has to do it a third time.
 * **I bridge the room:** I’m just as comfortable debugging native SQL, TMDL, and Snowflake schemas with engineers as I am walking leadership through the *so-what* behind the numbers.
